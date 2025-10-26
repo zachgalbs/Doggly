@@ -1,0 +1,14 @@
+# Arduino build files
+*.swp
+*.bak
+*.tmp
+*.o
+*.d
+*.bin
+*.elf
+*.eep
+*.hex
+
+# MacOS trash
+.DS_Store
+
