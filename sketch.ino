@@ -13,5 +13,5 @@ void loop() {
   force_sensor_value = analogRead(force_sensor_pin);
   potentiometer_value = analogRead(potentiometer_pin);
 
-  digitalWrite(
+  digitalWrite(laksjdflkasjdflkadsj)
 }
